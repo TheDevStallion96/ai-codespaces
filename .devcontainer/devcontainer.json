@@ -1,4 +1,4 @@
 {
-  "name": "Oh-My-AI",
+  "name": "AI Codespace",
   "image":"mcr.microsoft.com/devcontainers/universal:2"
 }
